@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:37:38.730Z",
+  "generated_at": "2026-10-02T11:52:48.892Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -11,6 +11,19 @@
       "path": "problems/0001-matrix-vector-dot-product",
       "first_solved_at": "2026-10-01T11:45:25.617Z",
       "last_pushed_at": "2026-10-01T11:45:25.617Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-02T11:52:48.597Z",
+      "last_pushed_at": "2026-10-02T11:52:48.597Z",
       "language": "python",
       "lines": 19
     }
