@@ -5,4 +5,4 @@ def linear_regression_normal_equation(X: list[list[float]], y: list[float]) -> l
 	y = np.array(y, dtype='float')
 
 	theta = np.linalg.inv(X.T @ X) @ X.T @ y
-	return theta
+	return [round(value,4) for value in theta]
